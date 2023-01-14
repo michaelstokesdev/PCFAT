@@ -5,7 +5,7 @@ The Python Frequency Analysis Tool is a simple tool written in python that provi
 method to perform letter frequency analysis on a piece of text.
 
 ## How to use
-A detailed document explaining how to use the tool is provided on [my website](https://stokesdev.co.uk/pcfat)
+A detailed document explaining how to use the tool is provided on [my website](https://stokesdev.co.uk/projects/PCFAT)
 
 ## Library Use
 This tool may also be used as a library to add basic letter frequency analysis functionality to other
